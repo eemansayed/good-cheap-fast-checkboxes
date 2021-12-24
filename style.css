@@ -51,6 +51,7 @@ body {
   left: 3px;
   align-items: center;
   justify-content: center;
+  animation: slideOff 0.3s linear forwards;
 }
 
 @keyframes slideOn {
